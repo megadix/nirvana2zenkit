@@ -1,0 +1,19 @@
+{
+  "name": "nirvana2zenkit",
+  "version": "1.0.0",
+  "description": "Import Projects and Tasks from NirvanaHQ to ZenKit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-writer": "^1.0.0",
+    "lodash": "^4.17.10"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0"
+  }
+}
